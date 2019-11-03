@@ -1,0 +1,26 @@
+.Login{
+    background-image: url("../image/Login.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment : scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+
+/*
+body{
+    background-image: url("../image/Login.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment : scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}*/
+#LoginButton{
+    margin-right: 10%;
+    margin-left: 40%;
+    margin-top: 50%;
+    opacity: 0.8;
+}
